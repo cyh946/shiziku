@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="LOGO" src="https://github.com/cyh946/shiziku/blob/main/shiziku.png" width="250" height="250" />
+<img alt="LOGO" src="https://github.com/cyh946/shiziku/blob/main/shiziku.png" width="128" height="128" />
 
 # shiziku
 查b站隐藏装扮的小工具
