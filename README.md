@@ -1,3 +1,4 @@
+![Artboard](https://github.com/cyh946/shiziku/blob/main/shiziku.png)
 # shiziku
 查b站隐藏装扮的小工具
 
