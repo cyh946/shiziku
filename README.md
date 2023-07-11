@@ -1,15 +1,13 @@
-<div align="center">
-<img alt="LOGO" src="https://github.com/cyh946/shiziku/blob/main/shiziku.png" width="128" height="128" />
-  
-# shiziku
-  
-查b站隐藏装扮的小工具
+![](萤舞.png)
 
-</div>
+
+# shiziku
+
+B站装扮圈工具, 谨以此工具纪念各位佬对B站的贡献
 
 ## 说明
+#### 开发环境
+**.e** : 易语言			**.e4a** : 易安卓
 
-- 感兴趣的可以b站关注[uid：335727741](https://space.bilibili.com/335727741)
-- 后缀为e的是由易语言编写
-- 后缀为e4a的是由易安卓编写
-- 如果觉得ui不好看的，可以自行拿源码修改
+### 作者联系方式：
+[BiliBili](https://space.bilibili.com/335727741)
